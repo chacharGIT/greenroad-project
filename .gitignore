@@ -1,0 +1,7 @@
+terraform-deploy/.terraform*
+terraform-deploy/instance_public_ip.txt
+terraform-deploy/terraform.tfstate*
+terraform-deploy/variables.tfvars
+terraform-k8s-create/.terraform*
+terraform-k8s-create/terraform.tfstate*
+terraform-k8s-create/variables.tfvars
